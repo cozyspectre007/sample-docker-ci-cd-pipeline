@@ -1,13 +1,13 @@
-// package com.dockerdemo.sample.docker.ci.cd.pipeline;
+ package com.dockerdemo.sample.docker.ci.cd.pipeline;
 
-// import org.junit.jupiter.api.Test;
-// import org.springframework.boot.test.context.SpringBootTest;
+ import org.junit.jupiter.api.Test;
+ import org.springframework.boot.test.context.SpringBootTest;
 
-// @SpringBootTest
-// class SampleDockerCiCdPipelineApplicationTests {
+ @SpringBootTest
+ class SampleDockerCiCdPipelineApplicationTests {
 
-// 	@Test
-// 	void contextLoads() {
-// 	}
+ 	@Test
+ 	void contextLoads() {
+ 	}
 
-// }
+ }
